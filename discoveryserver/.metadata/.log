@@ -1,0 +1,224 @@
+!SESSION 2024-10-05 20:37:42.886 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=vi_VN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\Le Anh Quan\Microservice Project\discoveryserver
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-10-05 20:37:52.557
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Le Anh Quan'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.785
+!MESSAGE Ignored property with key: null value: null
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.914
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.914
+!MESSAGE Could not send USER event 'Anonymous ID: 010d9b5d-ff4f-47ff-8b58-979c7e1fc230': no analytics instance present.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.915
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.915
+!MESSAGE Could not send STARTUP event 'startup': no analytics instance present.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.916
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.916
+!MESSAGE Could not send USER event 'Anonymous ID: 010d9b5d-ff4f-47ff-8b58-979c7e1fc230': no analytics instance present.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.917
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.917
+!MESSAGE Could not send ACTION event 'installed': no analytics instance present.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.919
+!MESSAGE Ignored property with key: null value: null
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.920
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.920
+!MESSAGE Could not send USER event 'Anonymous ID: 010d9b5d-ff4f-47ff-8b58-979c7e1fc230': no analytics instance present.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.921
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.921
+!MESSAGE Could not send STARTUP event 'startup': no analytics instance present.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.921
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.922
+!MESSAGE Could not send USER event 'Anonymous ID: 010d9b5d-ff4f-47ff-8b58-979c7e1fc230': no analytics instance present.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.922
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:37:53.923
+!MESSAGE Could not send ACTION event 'showOnStartup': no analytics instance present.
+
+!ENTRY org.eclipse.equinox.p2.director 2 10054 2024-10-05 20:38:06.872
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:38:06.872
+!MESSAGE Software being installed: artificial_root 1.0.0.v1728135485414
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2024-10-05 20:38:06.872
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:38:06.872
+!MESSAGE Mylyn WikiText Help UI 3.0.48.202308291007 (org.eclipse.mylyn.wikitext.help.ui 3.0.48.202308291007)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:38:06.872
+!MESSAGE Mylyn WikiText Help UI 4.3.0.v20240509-0539 (org.eclipse.mylyn.wikitext.help.ui 4.3.0.v20240509-0539)
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2024-10-05 20:38:06.872
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:38:06.872
+!MESSAGE From: artificial_root 1.0.0.v1728135485414
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:38:06.872
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.mylyn.wikitext.feature.feature.group 4.3.0.v20240602-0603
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2024-10-05 20:38:06.872
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:38:06.872
+!MESSAGE From: artificial_root 1.0.0.v1728135485414
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:38:06.872
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.mylyn.wikitext_feature.feature.group 0.0.0
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2024-10-05 20:38:06.872
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:38:06.872
+!MESSAGE From: Mylyn WikiText Editors 3.0.48.202308291007 (org.eclipse.mylyn.wikitext.editors_feature.feature.group 3.0.48.202308291007)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:38:06.872
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.mylyn.wikitext.help.ui [3.0.48.202308291007,3.0.48.202308291007]
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2024-10-05 20:38:06.872
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:38:06.872
+!MESSAGE From: Mylyn WikiText 4.3.0.v20240602-0603 (org.eclipse.mylyn.wikitext.feature.feature.group 4.3.0.v20240602-0603)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:38:06.872
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.mylyn.wikitext.help.ui [4.3.0.v20240509-0539,4.3.0.v20240509-0539]
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2024-10-05 20:38:06.872
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:38:06.872
+!MESSAGE From: Mylyn WikiText 3.0.48.202308291007 (org.eclipse.mylyn.wikitext_feature.feature.group 3.0.48.202308291007)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:38:06.872
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.mylyn.wikitext.editors_feature.feature.group [3.0.48.202308291007,3.0.48.202308291007]
+
+!ENTRY org.eclipse.oomph.setup.ui 1 0 2024-10-05 20:38:06.874
+!MESSAGE Setup tasks were performed during startup. See 'C:\Users\Le Anh Quan\eclipse\java-2023-12\eclipse\configuration\org.eclipse.oomph.setup\setup.log' for details
+!SESSION 2024-10-05 20:40:16.686 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=vi_VN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\Le Anh Quan\Microservice Project\discoveryserver
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-10-05 20:40:24.371
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Le Anh Quan'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.780
+!MESSAGE Ignored property with key: null value: null
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.914
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.915
+!MESSAGE Could not send USER event 'Anonymous ID: 010d9b5d-ff4f-47ff-8b58-979c7e1fc230': no analytics instance present.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.915
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.916
+!MESSAGE Could not send STARTUP event 'startup': no analytics instance present.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.916
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.917
+!MESSAGE Could not send USER event 'Anonymous ID: 010d9b5d-ff4f-47ff-8b58-979c7e1fc230': no analytics instance present.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.917
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.918
+!MESSAGE Could not send ACTION event 'showOnStartup': no analytics instance present.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.920
+!MESSAGE Ignored property with key: null value: null
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.920
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.922
+!MESSAGE Could not send USER event 'Anonymous ID: 010d9b5d-ff4f-47ff-8b58-979c7e1fc230': no analytics instance present.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.922
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.923
+!MESSAGE Could not send STARTUP event 'startup': no analytics instance present.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.923
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.924
+!MESSAGE Could not send USER event 'Anonymous ID: 010d9b5d-ff4f-47ff-8b58-979c7e1fc230': no analytics instance present.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.924
+!MESSAGE Could not create Segment Analytics instance, missing writeKey.
+
+!ENTRY org.jboss.tools.usage 2 0 2024-10-05 20:40:25.925
+!MESSAGE Could not send ACTION event 'installed': no analytics instance present.
+
+!ENTRY org.eclipse.equinox.p2.director 2 10054 2024-10-05 20:40:41.600
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:40:41.600
+!MESSAGE Software being installed: artificial_root 1.0.0.v1728135640082
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2024-10-05 20:40:41.600
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:40:41.600
+!MESSAGE Mylyn WikiText Help UI 3.0.48.202308291007 (org.eclipse.mylyn.wikitext.help.ui 3.0.48.202308291007)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:40:41.600
+!MESSAGE Mylyn WikiText Help UI 4.3.0.v20240509-0539 (org.eclipse.mylyn.wikitext.help.ui 4.3.0.v20240509-0539)
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2024-10-05 20:40:41.600
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:40:41.600
+!MESSAGE From: artificial_root 1.0.0.v1728135640082
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:40:41.600
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.mylyn.wikitext.feature.feature.group 4.3.0.v20240602-0603
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2024-10-05 20:40:41.600
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:40:41.600
+!MESSAGE From: artificial_root 1.0.0.v1728135640082
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:40:41.600
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.mylyn.wikitext_feature.feature.group 0.0.0
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2024-10-05 20:40:41.600
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:40:41.600
+!MESSAGE From: Mylyn WikiText Editors 3.0.48.202308291007 (org.eclipse.mylyn.wikitext.editors_feature.feature.group 3.0.48.202308291007)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:40:41.600
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.mylyn.wikitext.help.ui [3.0.48.202308291007,3.0.48.202308291007]
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2024-10-05 20:40:41.600
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:40:41.600
+!MESSAGE From: Mylyn WikiText 4.3.0.v20240602-0603 (org.eclipse.mylyn.wikitext.feature.feature.group 4.3.0.v20240602-0603)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:40:41.600
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.mylyn.wikitext.help.ui [4.3.0.v20240509-0539,4.3.0.v20240509-0539]
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2024-10-05 20:40:41.600
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:40:41.600
+!MESSAGE From: Mylyn WikiText 3.0.48.202308291007 (org.eclipse.mylyn.wikitext_feature.feature.group 3.0.48.202308291007)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-10-05 20:40:41.600
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.mylyn.wikitext.editors_feature.feature.group [3.0.48.202308291007,3.0.48.202308291007]
+
+!ENTRY org.eclipse.oomph.setup.ui 1 0 2024-10-05 20:40:41.603
+!MESSAGE Setup tasks were performed during startup. See 'C:\Users\Le Anh Quan\eclipse\java-2023-12\eclipse\configuration\org.eclipse.oomph.setup\setup.log' for details
